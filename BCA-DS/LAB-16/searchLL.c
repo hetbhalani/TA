@@ -74,5 +74,5 @@ void main(){
     insertAtLast(7);
 
     search(3);
-    search(123);
+    search(123); //can not find
 }
